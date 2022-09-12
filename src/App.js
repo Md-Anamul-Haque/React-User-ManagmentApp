@@ -1,5 +1,5 @@
 import React from 'react'
-import COUD from '../CRUD-USER-APP'
+import COUD from './components/CRUD-USER-APP'
 
 const App = () => {
   return (
